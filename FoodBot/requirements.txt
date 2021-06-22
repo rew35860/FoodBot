@@ -1,0 +1,6 @@
+--------  Spoonacular API ---------
+Man page and API key can be obtain through this website: 
+
+https://spoonacular.com/food-api
+
+* However, I have already included 2 API keys in the Api.py 
